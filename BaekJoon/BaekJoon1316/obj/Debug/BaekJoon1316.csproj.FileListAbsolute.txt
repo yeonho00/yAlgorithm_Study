@@ -1,0 +1,7 @@
+F:\3 - 1\GitHub\BaekJoon1316\bin\Debug\BaekJoon1316.exe.config
+F:\3 - 1\GitHub\BaekJoon1316\bin\Debug\BaekJoon1316.exe
+F:\3 - 1\GitHub\BaekJoon1316\bin\Debug\BaekJoon1316.pdb
+F:\3 - 1\GitHub\BaekJoon1316\obj\Debug\BaekJoon1316.csproj.AssemblyReference.cache
+F:\3 - 1\GitHub\BaekJoon1316\obj\Debug\BaekJoon1316.csproj.CoreCompileInputs.cache
+F:\3 - 1\GitHub\BaekJoon1316\obj\Debug\BaekJoon1316.exe
+F:\3 - 1\GitHub\BaekJoon1316\obj\Debug\BaekJoon1316.pdb
