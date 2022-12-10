@@ -1,0 +1,7 @@
+F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.csproj.AssemblyReference.cache
+F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.csproj.CoreCompileInputs.cache
+F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\bin\Debug\BaekjoonProject.exe.config
+F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\bin\Debug\BaekjoonProject.exe
+F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\bin\Debug\BaekjoonProject.pdb
+F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.exe
+F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.pdb
