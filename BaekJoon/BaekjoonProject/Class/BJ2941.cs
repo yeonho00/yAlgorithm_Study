@@ -61,7 +61,7 @@ namespace BaekjoonProject
     }
     class BJ2941
     {
-        static void Main()
+        static void ain()
         {
             List<CroLetter> croLetterList = new List<CroLetter>();
             char[] startStr = { 'c', 'd', 'l', 'n', 's', 'z' };
