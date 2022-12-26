@@ -8,7 +8,7 @@ namespace BaekjoonProject
 {
     class BJ1145
     {
-        static void Main()
+        static void ain()
         {
             const int inputLength = 5;
             int[] nums = InputMethod(inputLength).Select(int.Parse).ToArray();
