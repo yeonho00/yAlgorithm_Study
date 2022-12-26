@@ -12,7 +12,7 @@ namespace BaekjoonProject.Class
         const int O = 1;
         const int V = 2;
         const int E = 3;
-        static void Main()
+        static void ain()
         {
             int loopNum = 0;
             string name = null;
