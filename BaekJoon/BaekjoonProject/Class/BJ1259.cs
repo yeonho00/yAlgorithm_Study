@@ -8,7 +8,7 @@ namespace BaekjoonProject.Class
 {
     class BJ1259
     {
-        static void Main()
+        static void ain()
         {
             //string[] inputStr = null;
             List<string> inputStr = new List<string>();
