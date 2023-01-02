@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BaekjoonProject.Class
 {
-    class BJ1768
+    class BJ1764
     {
         static void Main()
         {
@@ -17,44 +17,40 @@ namespace BaekjoonProject.Class
             int[] length = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
             nDic = InputNMethod(length[N]);
-            mList = InputMMethod(length[M]);
-            ChkNM(nDic, mList);
+            ChkNM(nDic, length[M]);
         }
         static Dictionary<string, bool> InputNMethod(int N)
         {
-            Dictionary<string, bool> nDic = new Dictionary<string, bool>();
+            bool b;
+            var nDic = new Dictionary<string, bool>();
             for (int i = 0; i < N; i++)
             {
                 string inputBuf = Console.ReadLine();
-                if (!nDic.ContainsKey(inputBuf))
+                if (!nDic.TryGetValue(inputBuf, out b))
                 {
                     nDic.Add(inputBuf, true);
                 }
             }
             return nDic;
         }
-        static List<string> InputMMethod(int M)
+        static void ChkNM(Dictionary<string, bool> nDic, int M)
         {
-            List<string> mList = new List<string>();
-            for (int i = 0; i < M; i++)
+            bool b;
+            var mDic = new Dictionary<string, bool>();
+            for(int i = 0; i < M; i++)
             {
                 string inputBuf = Console.ReadLine();
-                if (!mList.Contains(inputBuf))
+                if (nDic.TryGetValue(inputBuf, out b) && !mDic.TryGetValue(inputBuf, out b))
                 {
-                    mList.Add(inputBuf);
+                    mDic.Add(inputBuf, true);
                 }
             }
-            return mList;
-        }
-        static void ChkNM(Dictionary<string, bool> nDic, List<string> mList)
-        {
-            int length = mList.Count;
-            for(int i = 0; i < length; i++)
+            var sList = new List<string>(mDic.Keys);
+            sList.Sort();
+            Console.WriteLine(sList.Count.ToString());
+            foreach(string str in sList)
             {
-                if (nDic.ContainsKey(mList[i]))
-                {
-                    Console.WriteLine(mList[i]);
-                }
+                Console.WriteLine(str);
             }
         }
     }
