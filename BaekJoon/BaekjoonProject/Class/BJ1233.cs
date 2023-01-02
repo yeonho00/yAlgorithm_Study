@@ -8,7 +8,7 @@ namespace BaekjoonProject.Class
 {
     class BJ1233
     {
-        static void Main()
+        static void ain()
         {
             Dictionary<int, int> diceSumCnt = new Dictionary<int, int>();
             List<int> sumList = new List<int>();

@@ -36,7 +36,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\BJ1768.cs" />
+    <Compile Include="Class\BJ1789.cs" />
+    <Compile Include="Class\BJ1018.cs" />
     <Compile Include="Class\BJ1145.cs" />
+    <Compile Include="Class\BJ1181.cs" />
     <Compile Include="Class\BJ1233.cs" />
     <Compile Include="Class\BJ1259.cs" />
     <Compile Include="Class\BJ1296.cs" />
