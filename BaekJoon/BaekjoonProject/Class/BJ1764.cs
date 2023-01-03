@@ -8,7 +8,7 @@ namespace BaekjoonProject.Class
 {
     class BJ1764
     {
-        static void Main()
+        static void ain()
         {
             const int N = 0;
             const int M = 1;
