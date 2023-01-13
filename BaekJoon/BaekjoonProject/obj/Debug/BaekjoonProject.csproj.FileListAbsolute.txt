@@ -5,3 +5,10 @@ F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\bin\Debug\BaekjoonProj
 F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\bin\Debug\BaekjoonProject.pdb
 F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.exe
 F:\3 - 1\GitHub\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.pdb
+C:\Users\asdf\Desktop\Github\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.csprojAssemblyReference.cache
+C:\Users\asdf\Desktop\Github\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.csproj.CoreCompileInputs.cache
+C:\Users\asdf\Desktop\Github\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.exe
+C:\Users\asdf\Desktop\Github\yAlgorithm_Study\BaekJoon\BaekjoonProject\obj\Debug\BaekjoonProject.pdb
+C:\Users\asdf\Desktop\Github\yAlgorithm_Study\BaekJoon\BaekjoonProject\bin\Debug\BaekjoonProject.exe.config
+C:\Users\asdf\Desktop\Github\yAlgorithm_Study\BaekJoon\BaekjoonProject\bin\Debug\BaekjoonProject.exe
+C:\Users\asdf\Desktop\Github\yAlgorithm_Study\BaekJoon\BaekjoonProject\bin\Debug\BaekjoonProject.pdb
