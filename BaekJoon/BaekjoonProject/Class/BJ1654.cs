@@ -8,7 +8,7 @@ namespace BaekjoonProject.Class
 {
     class BJ1654
     {
-        static void Main()
+        static void ain()
         {
             int[] KN = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
             int K = KN[0];

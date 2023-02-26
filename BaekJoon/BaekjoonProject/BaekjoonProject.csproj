@@ -34,9 +34,14 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BJ1813.cs" />
+    <Compile Include="Class\BJ10129.cs" />
+    <Compile Include="Class\BJ11728.cs" />
     <Compile Include="Class\BJ1436.cs" />
+    <Compile Include="Class\BJ14405.cs" />
     <Compile Include="Class\BJ1463.cs" />
     <Compile Include="Class\BJ1789.cs" />
     <Compile Include="Class\BJ1018.cs" />
@@ -47,7 +52,15 @@
     <Compile Include="Class\BJ1296.cs" />
     <Compile Include="Class\BJ1297.cs" />
     <Compile Include="Class\BJ25305.cs" />
+    <Compile Include="Class\BJ2751.cs" />
+    <Compile Include="Class\BJ2805.cs" />
     <Compile Include="Class\BJ2941.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Class\NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

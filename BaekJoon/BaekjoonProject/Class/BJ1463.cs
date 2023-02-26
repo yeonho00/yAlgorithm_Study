@@ -8,7 +8,7 @@ namespace BaekjoonProject.Class
 {
     class BJ1463
     {
-        static void Main()
+        static void ain()
         {
             Dictionary<int, int> dic = new Dictionary<int, int>();
             int N = int.Parse(Console.ReadLine());
@@ -19,13 +19,14 @@ namespace BaekjoonProject.Class
 
         static int CntCalc(Dictionary<int, int> dic, int curNum)
         {
-            int one, two, three;
-            
-            if(curNum % 3 == 0) three = curNum / 3;
-            if(curNum % 2 == 0) two = curNum / 2;
-            one = curNum - 1;
+            //int one, two, three;
 
-            if(dic.Contains(three))
+            //if (curNum % 3 == 0) three = curNum / 3;
+            //if (curNum % 2 == 0) two = curNum / 2;
+            //one = curNum - 1;
+
+            //if (dic.Contains(three)) ;
+            return 0;
         }
     }
 }

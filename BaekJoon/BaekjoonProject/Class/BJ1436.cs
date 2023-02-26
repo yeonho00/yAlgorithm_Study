@@ -8,7 +8,7 @@ namespace BaekjoonProject.Class
 {
     class BJ1436
     {
-        static void Main()
+        static void ain()
         {
             int N = int.Parse(Console.ReadLine());
             int curIdx = 0;
